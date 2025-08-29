@@ -1,6 +1,6 @@
 # Hệ thống Xe Điều Khiển Tay Cầm và Tránh Vật Cản
 
-Chào mừng bạn đến với dự án **Hệ thống Xe Điều Khiển Tay Cầm và Tránh Vật Cản**, được phát triển bởi Nguyễn Nam (NamM0402). Dự án này là một hệ thống nhúng IoT tích hợp điều khiển thủ công qua tay cầm, tự động tránh vật cản, và giám sát quãng đường/tốc độ. Hệ thống sử dụng ESP32 làm bộ vi điều khiển chính, STM32 để điều khiển động cơ, và kết nối không dây qua Wi-Fi.
+Chào mừng bạn đến với dự án **Hệ thống Xe Điều Khiển Tay Cầm và Tránh Vật Cản**, được phát triển bởi Nam (NamM0402). Dự án này là một hệ thống nhúng IoT tích hợp điều khiển thủ công qua tay cầm, tự động tránh vật cản, và giám sát quãng đường/tốc độ. Hệ thống sử dụng ESP32 làm bộ vi điều khiển chính, STM32 để điều khiển động cơ, và kết nối không dây qua Wi-Fi.
 
 ## Thành phần phần cứng
 - **ESP32 (code_xe.ino)**:
