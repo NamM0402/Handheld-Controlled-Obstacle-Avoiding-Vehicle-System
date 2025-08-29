@@ -1,0 +1,5 @@
+../Core/Src/myLib/uartHandle.c:13:6:uartAppHandle	4
+../Core/Src/myLib/uartHandle.c:28:6:uartAppClear	1
+../Core/Src/myLib/uartHandle.c:38:6:trim	5
+../Core/Src/myLib/uartHandle.c:53:6:trim_with_length	4
+../Core/Src/myLib/uartHandle.c:68:6:esp32_print	1

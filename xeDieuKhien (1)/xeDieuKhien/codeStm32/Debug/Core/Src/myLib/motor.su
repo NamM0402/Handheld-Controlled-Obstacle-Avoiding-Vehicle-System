@@ -1,0 +1,9 @@
+../Core/Src/myLib/motor.c:10:6:TIM1_SetDuty_CH2	16	static
+../Core/Src/myLib/motor.c:17:6:TIM1_SetDuty_CH4	16	static
+../Core/Src/myLib/motor.c:25:6:motor_init	8	static
+../Core/Src/myLib/motor.c:40:6:PWM_RampUpDown	16	static
+../Core/Src/myLib/motor.c:51:6:Forward	8	static
+../Core/Src/myLib/motor.c:59:6:Backward	8	static
+../Core/Src/myLib/motor.c:67:6:TurnLeft	8	static
+../Core/Src/myLib/motor.c:75:6:TurnRight	8	static
+../Core/Src/myLib/motor.c:83:6:blynkLed	24	static
